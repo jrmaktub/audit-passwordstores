@@ -70,7 +70,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 # Audit Details 
 
-Commit Hash:
+**The findings described are related to this Commit Hash:**
 
 ```
 2e8f81e263b3a9d18fab4fb5c46805ffc10a9990
