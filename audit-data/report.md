@@ -55,7 +55,7 @@ Assisting Auditors:
     - [\[H-1\] Passwords stored on-chain are visable to anyone, not matter solidity variable visibility](#h-1-passwords-stored-on-chain-are-visable-to-anyone-not-matter-solidity-variable-visibility)
     - [\[H-2\] `PasswordStore::setPassword` is callable by anyone](#h-2-passwordstoresetpassword-is-callable-by-anyone)
 - [Low Risk Findings](#low-risk-findings)
-  - [L-01. Initialization Timeframe Vulnerability](#l-01-initialization-timeframe-vulnerability)
+  - [L-01. Initialization Timeframe Vulnerability](#L-01-initialization-timeframe-vulnerability)
     - [Relevant GitHub Links](#relevant-github-links)
   - [Summary](#summary)
   - [Vulnerability Details](#vulnerability-details)
